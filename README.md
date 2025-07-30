@@ -31,7 +31,7 @@ We adjust the hyperparameters (e.g., learning rate, hidden size, number of epoch
     <img src="images/1.png" alt="Descriptive Alt Text" class="fit-width-image">
 </p>
 
-## Compare the RNN RMSE with GRU
+## Compare the RNN with GRU
 
 In this section, we will compare the performance of the RNN model with the GRU (Gated Recurrent Unit) model on the same dataset. We will evaluate both models using the Root Mean Squared Error (RMSE) and visualize the results.
 <p align="center">
